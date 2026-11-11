@@ -1,0 +1,8 @@
+# Python environment and generated files
+/Backend/.venv/
+/Backend/**/__pycache__/
+/Backend/**/*.py[cod]
+
+# React dependencies and build output
+/heart-undo-frontend/node_modules/
+/heart-undo-frontend/build/
